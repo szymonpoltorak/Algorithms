@@ -1,6 +1,6 @@
 # What is this repo for ?
 This repository is a place I store my algorithm implementations made during process of learning. There are sorting algorithms,
- data structures and maybe more.
+ data structures and maybe more. This repository is mash up of my old repositories to maintain order in my repositories.
 
 # Technology Stack
 * JDK 17.03 LTS,
